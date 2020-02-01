@@ -1,2 +1,2 @@
 # Simon
-SImon Game 
+Simon Game
