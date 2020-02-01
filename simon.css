@@ -10,7 +10,8 @@ body {
 .button {
   border-radius: 50% !important;
   font-size: 1.5em;
-  background-color: lightgray;
+  background-color: red;
+  border-color: black;
 }
 
 #switches {
